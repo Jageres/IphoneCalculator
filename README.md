@@ -1,2 +1,2 @@
 my first pet-project!
-![alt text](images/MainCalculator "MyCalc")​
+![alt text](..images/MainCalculator.png "MyCalc")​
