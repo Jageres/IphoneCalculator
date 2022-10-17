@@ -1,1 +1,1 @@
-my first pet-project
+Try to HTML, CSS and JS
